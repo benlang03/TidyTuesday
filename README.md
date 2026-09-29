@@ -6,3 +6,6 @@ Session 1 (7/21 + 8/18):
 
 Session 2 (9/15):
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benlang03/TidyTuesday/blob/main/TT_2.ipynb)
+
+Session 3 (9/29):
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benlang03/TidyTuesday/blob/main/TT_3.ipynb)
